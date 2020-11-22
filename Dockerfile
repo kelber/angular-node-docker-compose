@@ -1,4 +1,5 @@
-FROM nginx:alpine
+# FROM nginx:alpine
 
-COPY /frontend/dist/frontend /usr/share/nginx/html
-EXPOSE 8080:8080
+# COPY /frontend/dist/frontend /usr/share/nginx/html
+# EXPOSE 8080:8080
+
